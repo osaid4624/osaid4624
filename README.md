@@ -11,8 +11,7 @@
 
 - 💬 Ask me about **Nextjs,typescipt**
 
-- 📫 How to reach me **usaid4150@gmail.com**https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif
-
+- 📫 How to reach me **usaid4150@gmail.com
 - ⚡ Fun fact **I m very Desperate for coding**
 
 ### Blogs posts
